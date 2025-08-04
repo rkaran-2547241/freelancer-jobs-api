@@ -1,0 +1,178 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "build a simple website",
+      "description": "i need someone to build me a basic website for my business. nothing fancy just some pages with info about my company",
+      "budget": 250,
+      "category": "Web Development",
+      "client": "john_smith",
+      "deadline": "7 days",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "posted": "2 days ago",
+      "proposals": 12
+    },
+    {
+      "id": 2,
+      "title": "logo design for my startup",
+      "description": "looking for someone to design a cool logo for my tech startup. i want something modern and clean",
+      "budget": 80,
+      "category": "Design",
+      "client": "tech_guy99",
+      "deadline": "5 days",
+      "skills": ["Photoshop", "Illustrator", "Logo Design"],
+      "posted": "1 day ago",
+      "proposals": 8
+    },
+    {
+      "id": 3,
+      "title": "write product descriptions",
+      "description": "need help writing descriptions for 20 products in my online store. should be catchy and seo friendly",
+      "budget": 150,
+      "category": "Writing",
+      "client": "store_owner",
+      "deadline": "10 days",
+      "skills": ["Content Writing", "SEO", "Product Description"],
+      "posted": "3 days ago",
+      "proposals": 15
+    },
+    {
+      "id": 4,
+      "title": "data entry work",
+      "description": "i have a bunch of business cards that need to be entered into excel. about 200 cards total",
+      "budget": 100,
+      "category": "Data Entry",
+      "client": "busy_mom",
+      "deadline": "14 days",
+      "skills": ["Excel", "Data Entry", "Accuracy"],
+      "posted": "4 days ago",
+      "proposals": 22
+    },
+    {
+      "id": 5,
+      "title": "social media posts for restaurant",
+      "description": "need someone to create social media posts for my restaurant. 10 posts for instagram and facebook",
+      "budget": 200,
+      "category": "Marketing",
+      "client": "chef_mario",
+      "deadline": "6 days",
+      "skills": ["Social Media", "Content Creation", "Marketing"],
+      "posted": "1 day ago",
+      "proposals": 9
+    },
+    {
+      "id": 6,
+      "title": "fix bugs in my wordpress site",
+      "description": "my wordpress website has some issues. menu doesnt work properly and images are not loading correctly",
+      "budget": 120,
+      "category": "Web Development",
+      "client": "small_biz_owner",
+      "deadline": "3 days",
+      "skills": ["WordPress", "CSS", "Bug Fix"],
+      "posted": "5 hours ago",
+      "proposals": 3
+    },
+    {
+      "id": 7,
+      "title": "translate english to spanish",
+      "description": "i have a 5 page document that needs to be translated from english to spanish. its for my business presentation",
+      "budget": 90,
+      "category": "Translation",
+      "client": "maria_gonzalez",
+      "deadline": "4 days",
+      "skills": ["Spanish", "Translation", "Business Writing"],
+      "posted": "2 days ago",
+      "proposals": 6
+    },
+    {
+      "id": 8,
+      "title": "create mobile app mockup",
+      "description": "need wireframes and mockups for a food delivery app. just basic screens nothing too complicated",
+      "budget": 300,
+      "category": "Design",
+      "client": "app_developer",
+      "deadline": "12 days",
+      "skills": ["UI/UX Design", "Wireframing", "Mobile App Design"],
+      "posted": "6 days ago",
+      "proposals": 11
+    },
+    {
+      "id": 9,
+      "title": "video editing for youtube",
+      "description": "i need someone to edit my youtube videos. basic cuts and adding some text overlays. 5 videos total",
+      "budget": 180,
+      "category": "Video Editing",
+      "client": "youtube_creator",
+      "deadline": "8 days",
+      "skills": ["Video Editing", "Adobe Premiere", "YouTube"],
+      "posted": "1 day ago",
+      "proposals": 7
+    },
+    {
+      "id": 10,
+      "title": "help with excel formulas",
+      "description": "i need help creating some complex excel formulas for my business calculations. couple hours of work",
+      "budget": 75,
+      "category": "Data Analysis",
+      "client": "accountant_joe",
+      "deadline": "2 days",
+      "skills": ["Excel", "Formulas", "Data Analysis"],
+      "posted": "12 hours ago",
+      "proposals": 4
+    },
+    {
+      "id": 11,
+      "title": "business card design",
+      "description": "need a professional business card design for my consulting company. something clean and corporate looking",
+      "budget": 60,
+      "category": "Design",
+      "client": "consultant_pro",
+      "deadline": "5 days",
+      "skills": ["Graphic Design", "Print Design", "Business Cards"],
+      "posted": "3 days ago",
+      "proposals": 13
+    },
+    {
+      "id": 12,
+      "title": "blog post writing",
+      "description": "looking for someone to write 3 blog posts about digital marketing. each post should be around 800 words",
+      "budget": 220,
+      "category": "Writing",
+      "client": "marketing_agency",
+      "deadline": "15 days",
+      "skills": ["Blog Writing", "SEO", "Digital Marketing"],
+      "posted": "4 days ago",
+      "proposals": 18
+    }
+  ],
+  "categories": [
+    "Web Development",
+    "Design",
+    "Writing",
+    "Data Entry",
+    "Marketing",
+    "Translation",
+    "Video Editing",
+    "Data Analysis"
+  ],
+  "clients": [
+    {
+      "username": "john_smith",
+      "name": "John Smith",
+      "rating": 4.2,
+      "jobs_posted": 3
+    },
+    {
+      "username": "tech_guy99",
+      "name": "Alex Chen",
+      "rating": 4.8,
+      "jobs_posted": 1
+    },
+    {
+      "username": "store_owner",
+      "name": "Sarah Johnson",
+      "rating": 4.5,
+      "jobs_posted": 7
+    }
+  ]
+}
